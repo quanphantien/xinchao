@@ -1,0 +1,23 @@
+﻿  Source.cpp
+D:\lap trinh\ngày mới\ngày mới\hauto.h(3,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\lap trinh\ngày mới\ngày mới\hauto.h(3,8): error C2146: syntax error: missing ';' before identifier 'Hauto'
+D:\lap trinh\ngày mới\ngày mới\tinhhauto.h(3,25): error C2061: syntax error: identifier 'StackAll'
+D:\lap trinh\ngày mới\ngày mới\tinhhauto.h(4,22): error C2146: syntax error: missing ')' before identifier 's'
+D:\lap trinh\ngày mới\ngày mới\hautologic.h(2,28): error C2146: syntax error: missing ')' before identifier 's'
+D:\lap trinh\ngày mới\ngày mới\hautologic.h(3,29): error C2061: syntax error: identifier 'string'
+D:\lap trinh\ngày mới\ngày mới\hautologic.h(4,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\lap trinh\ngày mới\ngày mới\hautologic.h(4,1): error C2086: 'int string': redefinition
+D:\lap trinh\ngày mới\ngày mới\hauto.h(3): message : see declaration of 'string'
+D:\lap trinh\ngày mới\ngày mới\hautologic.h(4,8): error C2146: syntax error: missing ';' before identifier 'Hautologic'
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(10,9): error C2872: 'string': ambiguous symbol
+D:\lap trinh\ngày mới\ngày mới\hauto.h(3,1): message : could be 'int string'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186,7): message : or       'std::string'
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(10,13): error C2872: 'string': ambiguous symbol
+D:\lap trinh\ngày mới\ngày mới\hauto.h(3,1): message : could be 'int string'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186,7): message : or       'std::string'
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'Str'
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(10,9): error C2065: 'Str': undeclared identifier
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(10,15): error C3861: 'Hauto': identifier not found
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(11,10): error C2065: 'Str': undeclared identifier
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(12,10): error C2064: term does not evaluate to a function taking 1 arguments
+D:\lap trinh\ngày mới\ngày mới\Source.cpp(13,10): error C3861: 'Hautologic': identifier not found
